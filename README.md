@@ -32,7 +32,6 @@ I’m an aspiring SOC Analyst with hands-on experience in log analysis, SIEM too
 ### 1. **Sysmon Log Collection Lab**
 - **Tools**: Sysmon, Windows Event Viewer
 - **Description**: Collected and analyzed logs for process creation, network connections, and file changes.
-- ![screenshot](images/sysmon_logs.png)
 
 ### 2. **Splunk SIEM Setup + Threat Detection**
 - **Tools**: Splunk, SPL
